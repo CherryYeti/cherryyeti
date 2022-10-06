@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hello! I am a 17 year old freshman at the University of California, Merced who believes in open source projects. I am majoring in computer science, and I love creating!
+
 
 <!--
 **CherryYeti/cherryyeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
