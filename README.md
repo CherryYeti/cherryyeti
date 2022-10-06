@@ -14,3 +14,6 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cherryyeti)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cherryyeti&theme=nord_bright)
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
