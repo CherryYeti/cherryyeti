@@ -19,6 +19,8 @@
 
 # 📊 My Stats
 
+[![Total Hours Coded](https://wakatime.com/badge/user/445d2b4d-28d6-46e2-b54a-5c982c65dd0a.svg?style=for-the-badge)](https://wakatime.com/@445d2b4d-28d6-46e2-b54a-5c982c65dd0a)
+
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cherryyeti)
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cherryyeti&theme=nord_bright)
