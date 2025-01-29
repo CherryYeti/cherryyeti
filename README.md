@@ -1,4 +1,4 @@
-## Hello! I am a second year college student who believes in open source projects. I am majoring in computer science, and I love creating!
+## Hello! I am a third year college student who believes in open source projects. I am majoring in computer science, and I love creating!
 
 # 📊 My Stats
 
